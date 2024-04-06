@@ -70,3 +70,10 @@ This project aimed to develop an interactive and dynamic Power BI dashboard for 
 
 Tools used: Power bi
 Database : SAP HANA 
+
+
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot 2024-04-03 121722.png">
+
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot 2024-04-03 121752.png">
+ 
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot 2024-04-03 121819.png">
