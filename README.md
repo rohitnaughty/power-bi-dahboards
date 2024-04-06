@@ -33,6 +33,7 @@ During my tenure at Vasu healthcare, I led a transformative project focused on o
 Tools used: Power bi
 Database : SAP HANA 
 
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141103.png">
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20134445.png">
 
@@ -42,7 +43,7 @@ Database : SAP HANA
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20134540.png">
 
-<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141013.png">
+
 
 My project is about "Finance Dashboard ".
 
@@ -55,10 +56,17 @@ Database : SAP HANA
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20140951.png">
 
-<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141003.png">
-
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141003.png"> 
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141026.png">
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141035.png">
-<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141103.png">
+ 
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20141013.png">
+
+My project is about "Vendor analysis Dashboard ".
+
+This project aimed to develop an interactive and dynamic Power BI dashboard for [Your Company's Name], focusing on an in-depth analysis of vendors from whom we procure various materials, including raw materials, packaging materials, and other essential supplies. The goal was to enable data-driven decision-making processes, enhance vendor relationship management, optimize cost-efficiency, and ensure the reliability of supply chains.
+
+Tools used: Power bi
+Database : SAP HANA 
