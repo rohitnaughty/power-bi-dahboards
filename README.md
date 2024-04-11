@@ -42,7 +42,7 @@ Database : SAP HANA
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20134514.png">
 
 <img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot%202024-01-27%20134540.png">
-
+<img width="610" alt="tttt" src="https://github.com/rohitnaughty/power-bi-dahboards/blob/main/Screenshot 2024-04-11 173601.png">
 
 
 My project is about "Finance Dashboard ".
